@@ -8,3 +8,4 @@ This is a freecodecamp tutorial project done by John Smilga
 * HTML
 * CSS
 
+Visit this site - https://sanvidurath.github.io/meals-app/
